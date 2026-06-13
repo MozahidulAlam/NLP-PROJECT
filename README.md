@@ -1,7 +1,7 @@
-#Spam Mail Detection using Machine Learning
-##Overview
+Spam Mail Detection using Machine Learning
+Overview
 
-##This project detects whether a message is Spam or Ham using Machine Learning.
+This project detects whether a message is Spam or Ham using Machine Learning.
 
 The model uses:
 
